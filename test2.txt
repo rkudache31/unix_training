@@ -1,4 +1,3 @@
-
 HTTPS code has chenged and 
 Jave code is implimented 
-
+doing the changes into http page
